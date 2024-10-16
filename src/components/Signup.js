@@ -11,6 +11,7 @@ function Signup() {
           <input placeholder="Email"></input>
           <input placeholder="Mobile Number"></input>
           <textarea placeholder="Address"></textarea>
+          <button type="button">Signup</button>
         </div>
       </form>
     </div>
